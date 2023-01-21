@@ -1,3 +1,22 @@
+.alert{
+  margin: 3px;
+  background-color: #d6e1e2;
+  cursor: pointer;
+
+}
+.card{
+  margin: 3px;
+
+}
+.navbar-brand {
+  margin-left: 40px;
+  color: rgb(2, 125, 90);
+}
+.navbar{
+  margin-bottom: 20px;
+  background-color: rgb(21, 21, 126);
+}
+
 .App {
   text-align: center;
 }
